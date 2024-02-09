@@ -3,7 +3,7 @@
   <title>names</title>
 </head>
 <body>
-<h1 style="color:orange;background-color:red;text-align:center;">ritik</h1>
+<h1 style="color: 🍊;background-color:red;text-align:center;">ritik</h1>
 <h2 style="color:blue;background-color: yellow;text-align:center;">sandy</h2>
 <h3 style="colour:brown;background-color:green;text-align:center;">adhesh</h3>
 <h4 style="color:purple;background-color:black;text-align:center;">sandesh</h4>
